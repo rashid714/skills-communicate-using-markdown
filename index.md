@@ -6,4 +6,5 @@
 
 ###### nice
 
-![Image of 404] https://www.freepik.com/free-vector/flat-design-no-data-illustration_47718911.htm#fromView=popular&page=1&position=45&uuid=26b50cb2-7d60-46ae-aa66-1e12875746d1
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
