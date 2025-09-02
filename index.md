@@ -19,3 +19,10 @@ print = "Hello, world!";
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+- [ ] 123
+- [x] 345
+- [ ] 678
